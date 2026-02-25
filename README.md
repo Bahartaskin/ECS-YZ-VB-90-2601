@@ -8,3 +8,7 @@ Ders 2: https://colab.research.google.com/drive/1YlGwKoT1X0UpFmmYNYQUKazRf77JKyd
 Ders 3: https://colab.research.google.com/drive/1Bw7bEulUSCwntf9bFbvjOV8IojberkRH#scrollTo=6gLh_CXy-XxJ
 
 Ders 4: https://colab.research.google.com/drive/1gZ5A1CiGn1Z7bWl62_Kl06iukDgotoqd#scrollTo=euw8HpiV-5ET
+
+Phyton Ödev: https://colab.research.google.com/drive/1F4R9acDWVcMq1fdUDKe4iRZu8AHBd4M9#scrollTo=Fd3Lkf_CMYao
+
+Restaurant Tips: https://colab.research.google.com/drive/1KTzG8S53oDl1aQCDWXzzl-2b0G21mjgE
