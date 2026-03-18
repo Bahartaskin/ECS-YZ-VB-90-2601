@@ -14,3 +14,5 @@ Phyton Ödev: https://colab.research.google.com/drive/1F4R9acDWVcMq1fdUDKe4iRZu8
 Restaurant Tips: https://colab.research.google.com/drive/1KTzG8S53oDl1aQCDWXzzl-2b0G21mjgE
 
 Titanic Competition: https://www.kaggle.com/code/bahartaskin/titanic-competition/edit/run/299564368
+
+Ders 5 Araç fiyat tahmini: https://colab.research.google.com/drive/1EXNJbmh6Rtaz6HuR1AC_dq5yXNSH011I
